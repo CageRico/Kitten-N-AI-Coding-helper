@@ -1,6 +1,6 @@
 # Kitten-N AI 编程出题助手
 
-基于 Claude AI 的 Scratch 风格积木编程出题工具，专为少儿编程教育设计。
+基于 Claude AI 的 Scratch 风格积木编程出题工具，专为少儿编程教育设计。主要面向的平台是KittenN平台，参见：https://kn.codemao.cn/
 
 > This project is an AI question generator assistant based on the KittenN block programming platform
 
