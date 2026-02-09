@@ -2,6 +2,8 @@
 
 基于 Claude AI 的 Scratch 风格积木编程出题工具，专为少儿编程教育设计。
 
+> This project is an AI question generator assistant based on the KittenN block programming platform
+
 ## 项目简介
 
 这是一个智能出题系统，能够根据指定的知识点、难度和题型，自动生成符合积木编程语法规范的高质量编程题目。适用于编程教育机构、教师和内容创作者。
